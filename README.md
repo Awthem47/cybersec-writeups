@@ -16,6 +16,7 @@ A multi-part tutorial covering the fundamentals of network analysis with Wiresha
 - [03 — UDP Protocol](wireshark/03-udp-protocol.md) — Header structure, use cases, and comparison with TCP
 - [04 — IP Protocol](wireshark/04-ip-protocol.md) — IPv4 header, fragmentation, TTL, and traceroute behaviour
 - [05 — Ethernet and ARP](wireshark/05-ethernet-and-arp.md) — Frame structure, MAC addressing, ARP resolution, and ARP spoofing
+- [06 — DHCP Protocol](wireshark/06-dhcp.md) — The DORA exchange, lease renewal, rogue DHCP servers, and DHCP starvation
 
 ## About this repository
 
@@ -23,7 +24,7 @@ Each writeup combines:
 - **Protocol theory** — the concepts you need to understand what you're seeing
 - **Wireshark mechanics** — how to find, filter, and interpret the relevant packets
 - **Real-world observations** — what actual captures from modern systems look like, and where they differ from textbook examples (e.g. TCP timestamp options reducing MSS, window scaling, randomised IP IDs in modern OS stacks)
-- **Security context** — where relevant, how each protocol is exploited (e.g. ARP spoofing, MITM positioning)
+- **Security context** — where relevant, how each protocol is exploited (e.g. ARP spoofing, MITM positioning, rogue DHCP servers)
 
 ## Currently learning
 
