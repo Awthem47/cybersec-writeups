@@ -34,4 +34,4 @@ Each writeup combines:
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/Awthem47](https://linkedin.com/in/Awthem47)
+- LinkedIn: [www.linkedin.com/in/fanny-patel-22043a37b) 
