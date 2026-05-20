@@ -8,7 +8,7 @@ I'm a postgraduate ICT student at Western Sydney University, building toward a c
 
 ### Wireshark — Network Protocol Analysis
 
-A multi-part tutorial covering the fundamentals of network analysis with Wireshark, written while preparing for a practical exam in COMP7013 (Network Technologies) at WSU. Each section combines protocol theory with hands-on packet analysis using real captures.
+A multi-part tutorial covering the fundamentals of network analysis with Wireshark, written while preparing for a practical exam in Network Technologies. Each section combines protocol theory with hands-on packet analysis using real captures.
 
 - [00 — Introduction to Wireshark](wireshark/00-introduction.md) — Interface, panes, and essential display filters
 - [01 — HTTP Protocol](wireshark/01-http-protocol.md) — GET/response cycles, conditional GETs, persistent vs non-persistent connections
